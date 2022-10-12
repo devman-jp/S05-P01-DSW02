@@ -1,0 +1,13 @@
+package s05.p01;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class S05P01Dsw02PlasenciaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
